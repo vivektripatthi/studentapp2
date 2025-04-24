@@ -1,0 +1,87 @@
+[
+  {
+    "name": "anjali",
+    "email": "anjali.sharma@gmail.com",
+    "password": "anjali*321"
+  },
+  {
+    "name": "harshit",
+    "email": "harshit99@protonmail.com",
+    "password": "har@pass"
+  },
+  {
+    "name": "komal",
+    "email": "komal.mehta@gmail.com",
+    "password": "komal1234"
+  },
+  {
+    "name": "nitesh",
+    "email": "nitesh.kumar@outlook.com",
+    "password": "nitesh@45"
+  },
+  {
+    "name": "bhavna",
+    "email": "bhavna.rani@yahoo.com",
+    "password": "bhav@789"
+  },
+  {
+    "name": "gaurav",
+    "email": "gaurav123@gmail.com",
+    "password": "gaurav@23"
+  },
+  {
+    "name": "pallavi",
+    "email": "pallavi.p@gmail.com",
+    "password": "pallavi#12"
+  },
+  {
+    "name": "karan",
+    "email": "karan_singh@rediffmail.com",
+    "password": "karan*pass"
+  },
+  {
+    "name": "riya",
+    "email": "riya.mishra@gmail.com",
+    "password": "riya2025"
+  },
+  {
+    "name": "manoj",
+    "email": "manoj.raj@outlook.com",
+    "password": "manoj@55"
+  },
+  {
+    "name": "sanjana",
+    "email": "sanjana.kumar@yahoo.com",
+    "password": "sanjana#789"
+  },
+  {
+    "name": "alok",
+    "email": "alok.verma@gmail.com",
+    "password": "alok@12"
+  },
+  {
+    "name": "divya",
+    "email": "divya.rana@outlook.com",
+    "password": "divya456"
+  },
+  {
+    "name": "amitabh",
+    "email": "amitabh.bachchan@gmail.com",
+    "password": "amitabh123"
+  },
+  {
+    "name": "shruti",
+    "email": "shruti.patel@yahoo.com",
+    "password": "shruti@89"
+  },
+  {
+    "name": "rahul",
+    "email": "rahul.yadav@outlook.com",
+    "password": "rahul@99"
+  },
+  {
+    "name": "jaya",
+    "email": "jaya.jain@gmail.com",
+    "password": "jaya2025"
+  }
+]
